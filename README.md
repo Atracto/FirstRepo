@@ -1,2 +1,2 @@
 # FirstRepo
-If you something done badly, do it yourself
+If you need something done badly, do it yourself
