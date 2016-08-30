@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Atracto/FirstRepo/issues"
   },
-  "homepage": "https://github.com/Atracto/FirstRepo#readme"
+  "homepage": "https://github.com/Atracto/FirstRepo#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
 }
